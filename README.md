@@ -359,7 +359,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2025/03/04 alis @ChiangRai</p>
+<p>Copyright 2025/03/03 alis @ChiangRai</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
