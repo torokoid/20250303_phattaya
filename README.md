@@ -286,7 +286,7 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xVTSe-eXbFs?si=1YAnLelZqsU-zs0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
     
-        <h2>フルコーラス再生「雪の中で輝くシンデレラ」by まいてゃ</h2>
+        <h3><span class="grey">「雪の中で輝くシンデレラ」by まいてゃ</span></h3>
 <h2><a href="https://torokoid.github.io/20250219_chiangrai/maitiyaz.mp3" target="_blank">この文字クリックで再生します<br>下の再生ボタンでも同じ曲流します</a></h2>
 
 
