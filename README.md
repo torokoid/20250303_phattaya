@@ -287,10 +287,10 @@ p.note { display: none; }
     
     
         <h3><span class="grey">「雪の中で輝くシンデレラ」by まいてゃ</span></h3>
-<h2><a href="https://torokoid.github.io/20250219_chiangrai/maitiyaz.mp3" target="_blank">この文字クリックで再生します<br>下の再生ボタンでも同じ曲流します</a></h2>
+<h2><a href="https://torokoid.github.io/20250219_chiangrai/maitiyaz.mp3" target="_blank">この文字クリックで再生します<br>下の再生ボタンでも同じ曲をループ再生します</a></h2>
 
 
-    <audio controls>
+    <audio controls loop>
         <source src="https://torokoid.github.io/20250219_chiangrai/maitiyaz.mp3" type="audio/mpeg">
         お使いのブラウザは audio タグをサポートしていません。
     </audio>
