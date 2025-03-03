@@ -150,7 +150,7 @@ p.note { display: none; }
 <h2><span class="yellow">パタヤ2日目の夜は、お昼に行ったレストランで軽く夕食</span></h2>
 <a href="20250303_010.JPG" target="_blank"><img src="20250303_010.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">お昼も同じレストランで軽くチャーハン</span></h2>
+<h2><span class="yellow">3日目のお昼も同じレストランで軽くチャーハン</span></h2>
 <a href="20250303_011.JPG" target="_blank"><img src="20250303_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250303_012.JPG" target="_blank"><img src="20250303_012.JPG" alt="サンプル画像" width="900" /></a>
     
