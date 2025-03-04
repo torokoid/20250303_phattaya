@@ -226,6 +226,8 @@ p.note { display: none; }
 <a href="20250303_065.JPG" target="_blank"><img src="20250303_065.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250303_066.JPG" target="_blank"><img src="20250303_066.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250303_067.JPG" target="_blank"><img src="20250303_067.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">何と後ろの席が日本人Grで久しぶりに聞く日本語、よくこの店を見つけましたね！</span></h2>
 <a href="20250303_068.JPG" target="_blank"><img src="20250303_068.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250303_069.JPG" target="_blank"><img src="20250303_069.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250303_070.JPG" target="_blank"><img src="20250303_070.JPG" alt="サンプル画像" width="900" /></a>
